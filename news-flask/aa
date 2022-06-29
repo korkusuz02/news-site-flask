@@ -1,0 +1,6 @@
+Session(oturum)larda cookieler gibi kullanıcı bilgilerinin tutuldugu bölümlerdir.
+render_template, ziyaret edeceğimiz url ‘de döndürülecek olan HTML sayfasını point edebileceğimiz bir fonksiyondur.
+Requests modülü.Bu modül ile web üzerindeki isteklerinizi yöneteceksiniz. Mesela bu modül ile API entpointlerine PUT, DELETE, POST gibi istekler atabilirsiniz.
+redirect fonksiyonuyla giriş formuna yönlendirme yaptık.
+url_for fonksiyonu ters yolla url oluşturmamızı sağlar.
+SQLAlchemy ,Python için geliştirilmiş SQL kütüphanesi/paketi ve Object Relational Mapper(ORM) aracıdır.
